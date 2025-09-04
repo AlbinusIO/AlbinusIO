@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 🦖 hello world!!
 
-![momoi](gift/momoi-momoi-saiba.gif)
+![momoi](Gift/momoi-momoi-saiba.gif)
 
 
 
