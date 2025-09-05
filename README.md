@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 🦖 hello world!!
 
 <div class="gif" align="left">
-  <img height="700" src="Gift/momoi-momoi-saiba.gif"  />
+  <img height="700" weight="900" src="Gift/momoi-momoi-saiba.gif"  />
 </div>
 <br>
 
