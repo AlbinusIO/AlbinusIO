@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<p>Chiling person with Enthusias in Computer Science & Physics | and i want to build a robot and learn mechanical and electrical enginering</p>
+<p>Chiling person with Enthusias in Computer Science & Physics | and i'm unemployed student </p>
 
 
 ### 👩‍💻 Languages:
